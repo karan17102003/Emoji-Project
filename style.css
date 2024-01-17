@@ -1,0 +1,17 @@
+#search_field{
+    width: 20%;
+    height: 20px;
+    
+}
+.button{
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+h1{
+    color: rgb(202, 43, 226);
+}
+body{
+    background-color: black;
+}
